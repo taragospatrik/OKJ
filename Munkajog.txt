@@ -1,0 +1,64 @@
+MUNKAJOG---
+
+- 	A	munkaviszonyt szabályozó jogforrások alapja az alkotmány. Az alkotmányban rögzítették, hogy mindenkinek joga van a munkához,
+	így ez alkotmányos jog.
+	
+- 	A munka tövénykönyve. 2012. évi első törvény. A munka törvénykönyve szabályozza a munkavállaló és a munkáltató legfőbb jogait és kötelességeit.
+	Előírja a munkaviszony normai és tartalmi szabályait. 
+	
+-	Második törvény: Betartása kötelező
+
+-	Harmadik törvény: Eltérni lehet tőle, de csak a dolgozó javára.
+
+-	A munkaviszony létrejötte: A munkáltató és a munkavállaló között létrejött jogviszony a munkaviszony. Létrejön írásbeli munkaszerződéssel. 
+	Írásba foglalása a munkáltató feladata! 
+	
+-	A természetes személy az az állampolgár. A jogi személy, aki vállalkozhat valamilyen jogi formában és ilyen adószáma van.
+	-	Vállalkozni: Magyar állampolgár, uniós állampolgár, union kívüliek letelepedési engedéllyel.
+	VÁllalkozói szintek sorrendben:
+	1: 	Egyéni vállalkozó
+	2: 	Betéti társaság (minimum 2 fő, 1 beltag, 1 kültag) 
+		- Beltag: korlátlanul felel minden kárért.
+		- Nincs jelentős alaptőke
+		- Alapítani társasági szerződéssel lehet.
+		- Ez szabályozza a társaság működését, felsorolja a tagokat, akik nem feltétlen vesznek részt a társaságban és felsorolja a tisztségviselőket is.
+		  Meghatározza a társaság működésének feltételeit. Meghatározza az eredményfelosztás rendjét és módját, a társaságtulajdon átruházásának rendjét
+		  és módját. A társaság külső forrás igénybevételét. A társaság megszűnésének módját is (csődfelszámolás).
+	3: 	A Kft is társasági szerződéssel jön létre. A társasági szerződés meghatározza a társaság működési körét, a vezetését, tagjait, alaptőkéjét,
+		székhelyét, eredményfelosztásának rendjét. (Mo-n minimum alaptőke 3.000.000Ft)
+		
+	a.) Munkabér + közterhei
+	b.) Külső finanszírozás (hitel)
+	c.) egyéb
+		
+		- A tagok bevitt vagyona felel a gazdálkodásért.
+		- Az ügyvezető, ha rábizonyítják, hogy a gazdálkodás miatta veszteséges, akkor korlátlan felelősséggel tartozik egyedől Ő.
+		- A legfelsőbb döntéshozó szerve a közgyűlés.
+		- Év végén elfogadják az előző gazdasági évet és a következő év tervét.
+		- CSŐD: pénzügyi ellehetetlenülés (inszolvencia), ahol a cég csődvédelmet kérhet és ezalatt átszervezheti a gazdálkodását.
+	
+-	Gazdasági eseménynek hívjuk, amikor egy tárgy vagy szolgáltatás tulajdonost vált. (Eladás)
+- 	Munkaszerződés alaki és tartalmi követelményei:	- A munkabér a munkaerő ára.
+													- Felek adatai
+													- Munkaköri leírás
+													- Nincs munkaszerződés bruttó munkabér megjelölése nélkül!
+													- Nincs munkaszerződés, ha nincs megadva a munkavégzés helye
+													- A munkaviszony időtartama. 1: Határozott, 2: Határozatlan
+													- Próbaidő (1-6 hónap) Mindkét fél részéről indoklás nélkül fel lehet mondani.
+													- Munkaidő
+													- A munkaszerződés megszűnésének feltételei
+													- Felek aláírása
+-	A munkaszerződés látrejön szóban, ezt 30 napon belül követi a papíralapú szerződés is.
+-	Meghatározzák írásban a munkarendet, a munkabér elemeit.
+-	A munkaszerződés elemei:	- Bérfizetés napja
+								- A munkába lépés napja
+								- A szabadság mértéke és formái
+								- Felmondási idő
+								- Az összes ezt érintő változás 
+				
+	4: Rt. 	A részvények, vállalati értékpapírok. Lejegyzése után megalakul a részvénytársaság. Közgyűlás a legfőbb szerve, igazgatótanácsot választ, igazgatóval és felügyelőbizotságot, 
+				aki ellenőrzi az igazgatótanácsot. Operatív működésért az igazgatótanács felel, év végén, vagy ha év közben szükséges összehívja a közgyűlést és előterjesztéseket tesz.
+				Részvény: Olyan különleges értékpapír, amely vállalati tulajdon, de adott esetben önnálló forgalmi értékkel bír és bizonyos feltételek mellett szabadon értékesíthető. 
+				Az értékét a vállalati nyereségből képződő osztalék és/vagy a piac értékítélete adja meg. A részvényeket megvásárlásukkor az Rt. részvénynyilvántartó könyvben jegyzi, ha ez nem történik meg,
+				akkor a részvény tulajdonosa nem gykorolhatja jogait, pl nem kap osztalékot. Magyarországon ma a Zrt. alaptőkéje, min 5.000.000Ft, Nyrt: 20.000.000Ft. Egy bank, 3.000.000.000Ft 
+				
