@@ -1,0 +1,129 @@
+ROUTER
+
+ena
+conf t
+enable secret cisco
+
+line con 0
+password cisco
+login
+exit
+
+line vty 0 4
+password cisco
+login
+exit
+
+line aux 0
+password cisco
+login
+exit
+
+service password-encryption
+
+banner motd #Authorized Personnel Only#
+
+int g0/0
+ip address 172.16.5.1 255.255.255.0
+no shut
+description Bio LAN
+exit
+
+int g0/1
+ip address 192.168.5.1 255.255.255.0
+no shut
+description Phys LAN
+end
+
+write
+
+----------------------------------------------------------------------------
+SWITCH BIO
+
+ena
+conf t
+
+hostname Bio
+
+enable secret class
+
+line console 0
+password cisco
+login
+exit
+
+line vty 0 4
+password cisco
+login
+exit
+
+service password-encryption
+
+banner motd #Authorized Personnel Only#
+
+int vlan 1
+ip address 172.16.5.2 255.255.255.0
+no shut
+description Bio - Science LAN
+exit
+
+ip default-gateway 172.16.5.1
+
+end
+write
+
+----------------------------------------------------------------------------
+SWITCH PHYS
+
+ena
+conf t
+
+hostname Phys
+
+enable secret class
+
+line console 0
+password cisco
+login
+exit
+
+line vty 0 4
+password cisco
+login
+exit
+
+service password-encryption
+
+banner motd #Authorized Personnel Only#
+
+int vlan 1
+ip address 192.168.5.252 255.255.255.0
+no shut
+description Phys - Science LAN
+exit
+
+ip default-gateway 192.168.5.1
+end
+
+write
+
+----------------------------------------------------------------------------
+BIO1
+172.16.5.10
+255.255.255.0
+172.16.5.1
+
+BIO2
+172.16.5.11
+255.255.255.0
+172.16.5.1
+
+PHYS1
+192.168.5.10
+255.255.255.0
+192.168.5.1
+
+PHYS2
+192.168.5.11
+255.255.255.0
+192.168.5.1
